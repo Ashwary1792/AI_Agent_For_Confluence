@@ -1,3 +1,4 @@
+
 # Confluence AI Agent
 
 A Streamlit-powered AI assistant that answers your questions based on documentation from your Confluence space.
@@ -47,4 +48,4 @@ A Streamlit-powered AI assistant that answers your questions based on documentat
 
 ---
 
-For any issues, contact your project admin or maintainer.
+
